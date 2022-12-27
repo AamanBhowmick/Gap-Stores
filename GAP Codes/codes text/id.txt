@@ -1,0 +1,34 @@
+Clothing Section:-
+{
+	Shirt & T-shirt code: SHRT_001
+		For Male    : SHRTM001
+		For Female  : SHRTF001
+	--------------------------------
+	All kind of Pants   : PANT_001
+		For Male    : PANTM001
+		For Female  : PANTF001
+	--------------------------------
+	Both in a set       : SPST_001
+		For Male    : SPSTM001
+		For Female  : SPSTF001
+}
+________________________________________________
+
+Electronics Section:-
+{
+	Television	    : TVSET001
+	--------------------------------
+	Smartphones         : SMRTP001
+	--------------------------------
+	Laptop              : LPTOP001
+}
+________________________________________________
+
+Grocery Section:-
+{
+	Vegetables          : VEGTB001
+	--------------------------------
+	Edible Oils         : EDOIL001
+	--------------------------------
+	Serials             : SRIAL001
+}

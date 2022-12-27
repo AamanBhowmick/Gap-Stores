@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GapStore Online Shopping Mart</title>
+    <link rel="stylesheet" href="gapstyle.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://use.fontawesome.com/e9511af6a5.js"></script>
+    <link rel="stylesheet" href="https://pngimg.com/image/81620">
+    <link rel="stylesheet" href="https://www.gsmarena.com/xiaomi_redmi_note_10_pro-pictures-10662.php">
+    <link rel="stylesheet" href="https://www.gsmarena.com/samsung_galaxy_m31s-pictures-10333.php">
+    <link rel="stylesheet" href="https://www.gsmarena.com/motorola_one_fusion+-10290.php">
+    <link rel="stylesheet" href="https://www.gsmarena.com/oneplus_nord_ce_5g-pictures-10944.php">
+    <link rel="stylesheet" href="https://vocal.media/feast/food-brands-owned-by-monsanto">
+    <link rel="stylesheet" href="https://www.krml.in/products/16611-bakerycakesdairy#images">
+    <link rel="stylesheet" href="https://www.krml.in/collections/edible-oils-ghee/products/18761-foodgrainsoilmasala">
+    <link rel="stylesheet" href="https://www.biography.com/actor/tom-cruise">
+    <link rel="stylesheet" href="https://www.biography.com/actor/vin-diesel">
+    <link rel="stylesheet" href="https://www.biography.com/actor/johnny-depp">
+    <link rel="stylesheet" href="https://www.cleanpng.com/png-godrej-group-logo-advertising-godrej-properties-li-651628/preview.html">
+    <link rel="stylesheet" href="https://www.cleanpng.com/png-oppo-digital-oppo-n1-logo-lg-electronics-headphone-1654791/preview.html">
+    <link rel="stylesheet" href="http://pngimg.com/images/logos/cocacola_logo">
+    <link rel="stylesheet" href="https://pngimg.com/image/21902">
+    <link rel="stylesheet" href="https://1000logos.net/philips-logo/">
+    <link rel="stylesheet" href="https://www.pngpix.com/download/gap-inc-logo-png-transparent">
+    <link rel="stylesheet" href="https://www.vippng.com/maxp/JxoiiJ/">
+    <link rel="stylesheet" href="https://commons.wikimedia.org/wiki/File:Download_on_the_App_Store_Badge.svg">
+    <link rel="stylesheet" href="https://www.forbes.com/sites/gordonkelly/2021/06/12/apple-iphone-13-pro-max-upgrade-design-release-upgrade-iphone-12-pro-max/?sh=7dc6899b1ef0">
+    <link rel="stylesheet" href="https://www.thesouledstore.com/product/avocado-love-set?gte=2">
+    <link rel="stylesheet" href="https://www.thesouledstore.com/product/cartoon-network-90s-squad-set?gte=2">
+    <link rel="stylesheet" href="https://www.thesouledstore.com/product/tom-and-jerry-ew-people-tshirt?gte=1">
+    <link rel="stylesheet" href="https://www.nike.com/in/t/zoomx-dragoy-racing-spike-mKMFbB/DJ5255-100">
+    <link rel="stylesheet" href="https://cdn.discordapp.com/attachments/876849163688607746/890105538493419540/Screenshot_20210920-143156-02.png">
+    <link rel="stylesheet" href="https://cdn.discordapp.com/attachments/876849163688607746/890103184297721886/Screenshot_20210921-110105-01.jpeg">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
+
+
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                    <div class="logo">
+                        <img src="https://cdn.discordapp.com/attachments/876849163688607746/890103184297721886/Screenshot_20210921-110105-01.jpeg" width="90px">
+                    </div>
+                    <nav>
+                        <ul>
+                            <li><input class="searchbar" type="text" placeholder="S e a r c h"><a><i class="fa fa-search"></i></a></li>
+                            <li><a href="gap.html">Home</a></li>
+                            <li><a href="product.html">Products</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="gaplogin.html">Account</a></li>
+                            <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+                        </ul>
+                    </nav>
+            </div>
+            <div class="scroll">
+                <div id="boxe">
+                    <div class="hPage" id="sec1">
+                        <div class="row">
+                            <div class="col-2">
+                                <h1>The Great Indian GAP Sale<br>Is Here!!</h1>
+                                <p>Fill the gap of your life with GapStore</p>
+                                <a href="" class="btn" type="button" >Explore Now! &#9758;</a>
+                            </div>
+                            <div class="col-2">
+                                <img src="https://pngimg.com/uploads/football_player/football_player_PNG136.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hPage" id="sec2">
+                        <div class="row">
+                            <div class="col-2">
+                                <h1>Get YourSelf<br>A New Style!!</h1>
+                                <p>Fashion is the armor to survive<br>the reality of everyday life.</p>
+                                <a href="" class="btn">Explore Now! &#9758;</a>
+                            </div>
+                            <div class="col-2">
+                                <img src="https://pngimg.com/uploads/football_player/football_player_PNG136.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hPage" id="sec3">
+                        <div class="row">
+                            <div class="col-2">
+                                <h1>Get YourSelf<br>A New Style!!</h1>
+                                <p>Fashion is the armor to survive<br>the reality of everyday life.</p>
+                                <a href="" class="btn">Explore Now! &#9758;</a>
+                            </div>
+                            <div class="col-2">
+                                <img src="https://pngimg.com/uploads/football_player/football_player_PNG136.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hPage" id="sec4">
+                        <div class="row">
+                            <div class="col-2">
+                                <h1>Get YourSelf<br>A New Style!!</h1>
+                                <p>Fashion is the armor to survive<br>the reality of everyday life.</p>
+                                <a href="" class="btn">Explore Now! &#9758;</a>
+                            </div>
+                            <div class="col-2">
+                                <img src="https://pngimg.com/uploads/football_player/football_player_PNG136.png">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="hPage" id="sec5">
+                        <div class="row">
+                            <div class="col-2">
+                                <h1>Get YourSelf<br>A New Style!!</h1>
+                                <p>Fashion is the armor to survive<br>the reality of everyday life.</p>
+                                <a href="" class="btn">Explore Now! &#9758;</a>
+                            </div>
+                            <div class="col-2">
+                                <img src="https://pngimg.com/uploads/football_player/football_player_PNG136.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="dot">
+                <a href="#sec1"><i class="fa fa-dot-circle-o"></i></a>
+                <a href="#sec2"><i class="fa fa-dot-circle-o"></i></a>
+                <a href="#sec3"><i class="fa fa-dot-circle-o"></i></a>
+                <a href="#sec4"><i class="fa fa-dot-circle-o"></i></a>
+                <a href="#sec5"><i class="fa fa-dot-circle-o"></i></a>
+            </div>
+        </div>
+    </div>
+<!-- featured categories -->
+<div class="container">
+    <div class="categories">
+        <div class="small-container">
+        <div class="row">
+            <div class="col-3">
+                <img src="pics/category-1.jpg">
+            </div>
+            <div class="col-3">
+               <img src="pics/category-2.jpg">
+            </div>
+            <div class="col-3">
+               <img src="pics/category-3.jpg">
+            </div>
+        </div>
+        </div>
+    </div>
+    <!-- featured products -->
+    <div class="small-conatiner">
+        <h2 class="title">Featured Products</h2>
+        <div class="row">
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href="avocado.html"><img src="https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1630341285_2352014.jpg?format=webp&w=376&dpr=1.0" height="340px"></a>
+                        <h4>Avocado Love Set</h4>
+                        <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>    
+                        </div>
+                        <p>₹ 1299</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href=""><img src="https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f9562be4-6e11-4410-8f71-674e31f45d99/zoomx-dragoy-racing-spike-mKMFbB.png" height="340px"></a>
+                        <h4>Nike ZoomX Dragonfly</h4>
+                        <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <p>₹ 12,995</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href="cartoon.html"><img src="https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1632134051_7662824.jpg?format=webp&w=376&dpr=1.0" height="340px"></a>
+                        <h4>Cartoon Network: 90's Squad Set</h4>
+                        <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                        </div>
+                        <p>₹ 1299</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href="tom.html"><img src="https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1625158360_1616699.jpg?format=webp&w=376&dpr=1.0" height="340px"></a>
+                        <h4>Tom And Jerry: Ew People</h4>
+                        <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <p>₹ 549</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+        </div>
+        <h2 class="title">Smart Phones</h2>
+        <div class="row">
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box1">
+                        <a href=""><img src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg" height="260px"></a>
+                        <h4>Redmi Note 10 Pro Max</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+                        <p>₹ 19,999-22,999</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box1">
+                        <a href=""><img src="https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31s-2.jpg" height="260px"></a>
+                        <h4>Samsung Galaxy M31s</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <p>₹ 17,499-21,499</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box1">
+                        <a href=""><img src="https://fdn2.gsmarena.com/vv/pics/motorola/motorola-one-fusion-plus-5.jpg" height="260px"></a>
+                        <h4>Motorola One Fusion Plus</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+                        <p>₹ 18,999-21,999</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box1">
+                        <a href=""><img src="https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce-5g-1.jpg" height="260px"></a>
+                        <h4>OnePlus Nord CE 5g</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <p>₹ 24,999-29,999</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+        </div>
+        <h2 class="title">Grocery</h2>
+        <div class="row">
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href=""><img src="https://res.cloudinary.com/jerrick/image/upload/f_jpg,q_auto,w_720/srshwsfa93htnxa8x5yn.jpg" height="340px"></a>
+                        <h4>Kellog's Corn Flakes</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+                        <p>₹ 386</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href=""><img src="https://res.cloudinary.com/jerrick/image/upload/f_jpg,q_auto,w_720/wfrs5uldgjixqakpcwsl.jpg" height="340px"></a>
+                        <h4>Lays Classic Potato Chips</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-o"></i>
+                        </div>
+                        <p>₹ 50</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href=""><img src="https://cdn.shopify.com/s/files/1/0407/2187/5104/products/8901063342408.png?v=1594676050" height="340px"></a>
+                        <h4>Britannia Fruit Bread</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-o"></i>
+                        </div>
+                        <p>₹ 45</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+            <div class="col-4">
+                <div class="effect">
+                    <div class="box">
+                        <a href=""><img src="https://cdn.shopify.com/s/files/1/0407/2187/5104/products/amul-ghee-4x5-lt-tin-500x500_0fb98e87-7920-419a-93de-452e968683f2.jpg?v=1609327678" height="340px"></a>
+                        <h4>Amul Pure Cow Ghee</h4>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star-half-o"></i>    
+                        </div>
+                        <p>₹ 350</p>
+                    </div>
+                </div>
+                <a href="" class="btn">See More! &#9758;</a>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="offer">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-2">
+                <div class="exclu">
+                    <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609fbdb429b049fa8139ca1b%2FApple--iPhone-13--iPhone-13-Pro--iPhone-13-Pro-Max--new-iPhone--iPhone-13-release%2F960x0.jpg%3Ffit%3Dscale">
+                </div>
+            </div>
+            <div class="col-2">
+                <p>Exclusively Available on GapStore</p>
+                <h1>iPhone 13 series</h1>
+                <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br></small>
+                <a href="" class="btn">Buy Now &#9758;</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- testimonial    -->
+<div class="reviewers">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>    
+                </div>
+                <img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTc5ODc1NTM4NjMyOTc2Mzcz/gettyimages-693134468.jpg">
+                <h3>Tom Cruise</h3>
+            </div>
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>    
+                </div>
+                <img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgxMjQ5NDUyMjMxNjk3NzY4/gettyimages-492532708-copy.jpg">
+                <h3>Vin Diesel</h3>
+            </div>
+            <div class="col-3">
+                <i class="fa fa-quote-left"></i>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <div class="rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-half-o"></i>    
+                </div>
+                <img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTIwNjA4NjM0MDYyNTM4MjUy/johnny-depp-9542522-1-402.jpg">
+                <h3>Johnny Depp</h3>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- brands -->
+<div class="brands">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-5">
+                <img src="https://png2.cleanpng.com/sh/e7f8e887cde4c70a8447dbfd344dc2b2/L0KzQYm3U8I1N5p2fZH0aYP2gLBuTfdwbKNqgp9wcnB4gH7zjBdwNZJpjtd7dHn2ebBuTfdwbKNqgp95cnBzdcP7ifV0NZ1uRd9qdIT1dcT6hb02aZM7TNgBMEC7c7eAVb4zO2Y5TqQBOEG4QoKBWcc0OWM1S6g6LoDxd1==/kisspng-godrej-group-logo-advertising-godrej-properties-li-mattresse-5ab64f6008cf75.2354626815218973120361.png">
+            </div>
+            <div class="col-5">
+                <img src="https://png2.cleanpng.com/sh/fda866eec5b3bc42b0b44ef5757749f8/L0KzQYm3VMMxN6twiZH0aYP2gLBuTf9xeJCyfNtwaYTkfH72kQBwNZ82Rd54Z3AwfLi0hfxma6V3h9DyY4OweLbohQBpd59qRdH5cHAwRbLsVvFiQJdqeapqZEKxQoq8VMY5O2g2TaQAMEa5Q4m6WcYxP191htk=/kisspng-oppo-digital-oppo-n1-logo-lg-electronics-headphone-oppo-5ae6aa8fea8ad2.2954683715250663839607.png">
+            </div>
+            <div class="col-5">
+                <img src="http://pngimg.com/uploads/cocacola_logo/small/cocacola_logo_PNG8.png">
+            </div>
+            <div class="col-5">
+                <img src="https://pngimg.com/uploads/paypal/paypal_PNG13.png">
+            </div>
+            <div class="col-5">
+                <img src="https://1000logos.net/wp-content/uploads/2017/05/Philips-Logo-500x152.png">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- footer  -->
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                <h3>Download Our App</h3>
+                <p>Download App for Android & IOS mobile phones</p>
+                <div class="app-logo">
+                        <a href=""><img src="https://www.vippng.com/png/full/108-1086736_google-play-android-app-store-computer-accessory-google.png"></a>
+                        <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/135px-Download_on_the_App_Store_Badge.svg.png"></a>
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="https://cdn.discordapp.com/attachments/876849163688607746/890105538493419540/Screenshot_20210920-143156-02.png">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul>
+                    <li><a href=""><i class="fa fa-ticket" aria-hidden="true"></i> Coupons</a></li>
+                    <li><a href=""><i class="fa fa-th-large" aria-hidden="true"></i> Blog Post</a></li>
+                    <li><a href=""><i class="fa fa-retweet" aria-hidden="true"></i> Return Policy</a></li>
+                    <li><a href=""><i class="fa fa-handshake-o" aria-hidden="true"></i> Join Affiliate</a></li>
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow us</h3>
+                <ul>
+                    <li><a href=""><i class="fa fa-facebook-official"></i> Facebook</a></li>
+                    <li><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+                    <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+                    <li><a href=""><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+        <hr>
+        <p class="copyright">Copyright 2021-gapstoreonlineshopping@gmail.com</p>
+    </div>
+</div>
+</body>
+</html>

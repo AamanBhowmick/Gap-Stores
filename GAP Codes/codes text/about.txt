@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="gapstyle.css">
+<link rel="https://www.bbvaapimarket.com/en/api-world/best-online-shopping-experience-examples/">
+<div class="header">
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <img src="https://media.discordapp.net/attachments/885510149324812288/892292572188405840/1632809521312.jpg" width="90px">
+            </div>
+            <nav>
+                <ul>
+                    <li><input class="searchbar" type="text" placeholder="S e a r c h"><a><i class="fa fa-search"></i></a></li>
+                    <li><a href="gap.html">Home</a></li>
+                    <li><a href="product.html">Products</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="gaplogin.html">Account</a></li>
+                    <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+.column2{
+  float: right;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+.about-section {
+  padding: 20px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+.vision {
+  padding: 20px;
+  text-align: left;
+  
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+    text-align: center;
+    margin: 5px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+}
+.content {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+.content.text{
+  position: relative;
+  padding: 20px;
+}
+.content.image{
+
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 30px;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>About Us Page</h1>
+  <p>Some text about who we are and what we do.</p>
+  <p>Resize the browser window to see that this page is responsive by the way.</p>
+</div>
+<br>
+<h1 style="text-align:center"><br>OUR VISSION</h1><br>
+<div class="content">
+  <div class="text">
+<h2> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem qui quas modi. Repellendus pariatur consequatur doloribus accusamus! Alias eligendi nulla repellendus natus eaque facere suscipit aspernatur, molestias sunt, excepturi quia?</h2>
+<h2> Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio eius, est quas accusantium praesentium animi! Alias officia enim omnis, molestiae soluta id porro vero autem optio, et libero. Obcaecati, libero?</h2>
+</div>
+<div class="image">
+  <img src="http://res.heraldm.com/phpwas/restmb_idxmake.php?idx=621&simg=/content/image/2020/04/27/20200427000581_0.jpg" width="450" height="450">
+</div>
+</div>
+<div class="content">
+  <div class="image">
+    <img src="https://delhi-ncr.mallsmarket.com/sites/default/files/photos/news/online-shopping.jpg" width="450" height="450">
+  </div>
+  <div class="text">
+  <h2>  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem qui quas modi. Repellendus pariatur consequatur doloribus accusamus! Alias eligendi nulla repellendus natus eaque facere suscipit aspernatur, molestias sunt, excepturi quia?</h2>
+  <h2>  Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio eius, est quas accusantium praesentium animi! Alias officia enim omnis, molestiae soluta id porro vero autem optio, et libero. Obcaecati, libero?</h2>
+  </div>
+  
+  </div>
+<h1 style="text-align:center"><br><br>Our Team</h1><br>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://media.cntraveller.com/photos/611bf0b8f6bd8f17556db5e4/1:1/w_2000,h_2000,c_limit/gettyimages-1146431497.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>AAMAN BHOWMICK</h2>
+        <p class="title">CEO & Founder</p>
+        <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4><hr>
+        <h3>2020.aaman.bhowmick@ves.ac.in</h3>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meadow-in-rocky-mountain-national-park-royalty-free-image-1592402262.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=640:*" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>PUSHKARAJ CHAUDHARI</h2>
+        <p class="title">CEO & Founder</p>
+        <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4><hr>
+        <h3>2020.pushkaraj.chaudhari@ves.ac.in</h3>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="https://media.discordapp.net/attachments/885510149324812288/892292572029014026/1632809521262.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>GHANISHTHA TALELE</h2>
+        <p class="title">CEO & Founder</p>
+        <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4><hr>
+        <h3>2020.ghanishtha.talele@ves.ac.in</h3>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

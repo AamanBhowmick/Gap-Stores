@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GapStore Online Shopping Mart Login</title>
+    <link rel="stylesheet" href="gapstyle.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://use.fontawesome.com/e9511af6a5.js"></script>
+    <link rel="stylesheet" href="https://www.amazon.in/Lenovo-Windows-Graphics-Phantom-82B500MMIN/dp/B08JLR7LPQ/ref=sr_1_8?crid=2VUCDE4OOTFT7&dchild=1&keywords=lenovo+laptops&qid=1632908724&sprefix=LENOVO+LAP%2Caps%2C289&sr=8-8">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="https://media.discordapp.net/attachments/885510149324812288/892292572188405840/1632809521312.jpg" width="90px">
+                </div>
+                <nav>
+                    <ul>
+                        <li><input class="searchbar" type="text" placeholder="S e a r c h"><a><i class="fa fa-search"></i></a></li>
+                        <li><a href="gap.html">Home</a></li>
+                        <li><a href="product.html">Products</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="gaplogin.html">Account</a></li>
+                        <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="avocardo">
+                <div class="box8">
+                    <div class="row">
+                        <div class="col-2">
+                            <div class="scroll2">
+                                <div class="hPage" id="sec1">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img src="https://m.media-amazon.com/images/I/61ItfhQmaFL._SL1000_.jpg" height="300">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hPage" id="sec2">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img src="https://m.media-amazon.com/images/I/71Bjq7lIWgL._SL1000_.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hPage" id="sec3">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img src="https://m.media-amazon.com/images/I/61eWonJwXkL._SL1000_.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hPage" id="sec4">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img src="https://m.media-amazon.com/images/I/61lkx+doq8L._SL1000_.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="dot1">
+                                <a href="#sec1"><i class="fa fa-dot-circle-o"></i></a>
+                                <a href="#sec2"><i class="fa fa-dot-circle-o"></i></a>
+                                <a href="#sec3"><i class="fa fa-dot-circle-o"></i></a>
+                                <a href="#sec4"><i class="fa fa-dot-circle-o"></i></a>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="write1">
+                                <br>
+                                <h2>
+                                    Lenovo Legion 5 AMD Ryzen 5 4600H 15.6 inch (39.62 cms) Full HD IPS Gaming Laptop (8GB/1TB HDD + 256GB SSD/Windows 10/120 Hz/NVIDIA GTX 1650 4GB GDDR6 Graphics/Phantom Black/2.3Kg), 82B500MMIN</h2>
+                                <h3><p>By LENOVO Store</p></h3>
+                                <hr>
+                                <br>
+                                <h3>₹89,990.00</h3>
+                                <div class="fav">
+                                    <div class="box6">
+                                        <a href=""><p class="txt" >Add to cart</p></a>
+                                    </div>
+                                </div>
+                                <div class="share">
+                                    <h4>Share now:</h4>
+                                    <div class="symbol">
+                                        <a href=""><i class="fa fa-facebook-official"></i></a>
+                                        <a href=""><i class="fa fa-whatsapp"></i></a>
+                                        <a href=""><i class="fa fa-twitter-square"></i></a>
+                                        <a href=""><i class="fa fa-linkedin-square"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="description">
+                    <div class="row">
+                        <div class="col-2">
+                            <div class="box7">
+                                <h2>Product Description</h2>
+                                <div class="descript">
+                                    Processor :<h4> 4th Gen AMD Ryzen 5 (4600H) | Speed: 3.0 GHz (Base) - 4.0 GHz (Max) | 6 Cores | 8MB Cache.</h4>
+                                    Memory    :<h4> 8GB RAM DDR4-3200, Upgradable up to 16GB </h4>
+                                    Storage   :<h4> TB HDD + 256GB SSD </h4>
+                                    Graphics  :<h4> NVIDIA GeForce GTX 1650 4GB GDDR6 Dedicated Graphics </h4>
+                                    Display   :<h4> 15.6" Full HD (1920x1080) | Wide Viewing Angle | Anti-Glare | IPS Technology | 120 Hz Refresh Rate</h4>
+                                    Other     :<h4> Cooling: Coldfront 2.0 with Dual Channel thermal mechanism | Q Control 3.0 to select between Quiet, Balance and Performance thermal modes
+                                                    Keyboard: Full-size Backlit Keyboard with 100% Anti-Ghosting and soft landing switches | 1.5 mm key travel</h4>
+                                </div> 
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="box7">
+                                <h2>Product Details</h2>
+                                <div class="detail">
+                                    <h3>Product id: SPSTF001</h3><br>
+                                    Material & Care: <br>Handle With Care <br>
+                                    Est. Order Processing Time: 12-24 hours <br>Estimated Delivery Time: <br>Metros: 1-4 days <br>Rest of India: 4-7 days</p>   
+                                    Country of Origin: CHINA<br>
+                                    Manufactured By: <br>
+                                        The LENOVO Store Pvt. Ltd. <br>
+                                         <br>
+                                         <H3>LENOVO HEADQUARTER INDIA</H3>
+                                         Ferns Icon, Level, 2, <br>
+                                         Outer Ring Rd, Doddanekundi, <br>
+                                         Mahadevapura, Bengaluru, Karnataka 560037,<br>
+                                         INDIA<br>
+                                         https://www.lenovo.com/in/en/<br>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Download App for Android & IOS mobile phones</p>
+                    <div class="app-logo">
+                            <a href=""><img src="https://www.vippng.com/png/full/108-1086736_google-play-android-app-store-computer-accessory-google.png"></a>
+                            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/135px-Download_on_the_App_Store_Badge.svg.png"></a>
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src="https://media.discordapp.net/attachments/885510149324812288/892292572029014026/1632809521262.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li><a href=""><i class="fa fa-ticket" aria-hidden="true"></i> Coupons</a></li>
+                        <li><a href=""><i class="fa fa-th-large" aria-hidden="true"></i> Blog Post</a></li>
+                        <li><a href=""><i class="fa fa-retweet" aria-hidden="true"></i> Return Policy</a></li>
+                        <li><a href=""><i class="fa fa-handshake-o" aria-hidden="true"></i> Join Affiliate</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow us</h3>
+                    <ul>
+                        <li><a href=""><i class="fa fa-facebook-official"></i> Facebook</a></li>
+                        <li><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+                        <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+                        <li><a href=""><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2021-gapstoreonlineshopping@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>

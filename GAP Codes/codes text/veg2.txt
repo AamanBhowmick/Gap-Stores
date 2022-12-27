@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GapStore Online Shopping Mart Login</title>
+    <link rel="stylesheet" href="gapstyle.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <script src="https://use.fontawesome.com/e9511af6a5.js"></script>
+    <link rel="stylesheet"
+        href="https://cdn.discordapp.com/attachments/885510149324812288/892292572029014026/1632809521262.jpg">
+    <link rel="stylesheet"
+        href="https://cdn.discordapp.com/attachments/885510149324812288/892292572188405840/1632809521312.jpg">
+    <link rel="stylesheet" href="https://www.thesouledstore.com/product/avocado-love-set?gte=2">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
+    <link rel="stylesheet" href="">
+    <style>
+        .avocardo .col-2 .write1 ul p {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid black;
+    height: 40px;
+    width: 50px;
+}
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="https://cdn.discordapp.com/attachments/885510149324812288/892292572188405840/1632809521312.jpg"
+                        width="90px">
+                </div>
+                <nav>
+                    <ul>
+                        <li><input class="searchbar" type="text" placeholder="S e a r c h"><a><i
+                                    class="fa fa-search"></i></a></li>-
+                        <li><a href="gap.html">Home</a></li>
+                        <li><a href="product.html">Products</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="gaplogin.html">Account</a></li>
+                        <li><a href="cart.html"><i class="fa fa-shopping-cart"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="avocardo">
+                <div class="box5">
+                    <div class="row">
+                        <div class="col-2">
+                            <div class="scroll2">
+                                <div class="hPage" id="sec1">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img
+                                                src="https://www.bigbasket.com/media/uploads/p/l/10000093_16-fresho-coconut-medium.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hPage" id="sec2">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img
+                                                src="https://www.bigbasket.com/media/uploads/p/l/10000093-2_25-fresho-coconut-medium.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="hPage" id="sec3">
+                                    <div class="avo">
+                                        <div class="row3">
+                                            <img
+                                                src="https://www.bigbasket.com/media/uploads/p/l/10000093-3_1-fresho-coconut-medium.jpg">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="dot1">
+                                <a href="#sec1"><i class="fa fa-dot-circle-o"></i></a>
+                                <a href="#sec2"><i class="fa fa-dot-circle-o"></i></a>
+                                <a href="#sec3"><i class="fa fa-dot-circle-o"></i></a>
+
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="write1">
+                                <h2>Fresho Coconut - Medium, 1 pc (approx. 450g to 500)</h2>
+                                <p>Fresho</p>
+                                <hr>
+                                <h3>₹29/-</h3>
+                                <h4>₹29/pc)</h4>
+                                <p>Please Select quantity</p>
+                                <div class="scroll3">
+                                    <div class="hPage" id="sec5">
+                                        <div class="row3">
+                                            <ul>
+                                                <a href="#sec5">
+                                                    <p id="b1">1pc</p>
+                                                </a>
+                                                <a href="#sec6">
+                                                    <p>2pc</p>
+                                                </a>
+                                                <a href="#sec7">
+                                                    <p>3pc</p>
+                                                </a>
+                                                <a href="#sec8">
+                                                    <p>4pc</p>
+                                                </a>
+                                                <a href="#sec9">
+                                                    <p>5pc</p>
+                                                </a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="hPage" id="sec6">
+                                        <div class="row3">
+                                            <ul>
+                                                <a href="#sec5">
+                                                    <p>1pc</p>
+                                                </a>
+                                                <a href="#sec6">
+                                                    <p id="b2">2pc</p>
+                                                   
+                                                </a>
+                                                <a href="#sec7">
+                                                    <p>3pc</p>
+                                                </a>
+                                                <a href="#sec8">
+                                                    <p>4pc</p>
+                                                </a>
+                                                <a href="#sec9">
+                                                    <p>5pc</p>
+                                                </a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="hPage" id="sec7">
+                                        <div class="row3">
+                                            <ul>
+                                                <a href="#sec5">
+                                                    <p>1pc</p>
+                                                </a>
+                                                <a href="#sec6">
+                                                    <p>2pc</p>
+                                                </a>
+                                                <a href="#sec7">
+                                                    <p id="b3">3pc</p>
+                                                </a>
+                                                <a href="#sec8">
+                                                    <p>4pc</p>
+                                                </a>
+                                                <a href="#sec9">
+                                                    <p>5pc</p>
+                                                </a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="hPage" id="sec8">
+                                        <div class="row3">
+                                            <ul>
+                                                <a href="#sec5">
+                                                    <p>1pc</p>
+                                                </a>
+                                                <a href="#sec6">
+                                                    <p>2pc</p>
+                                                </a>
+                                                <a href="#sec7">
+                                                    <p>3pc</p>
+                                                </a>
+                                                <a href="#sec8">
+                                                    <p id="b4">4pc</p>
+                                                </a>
+                                                <a href="#sec9">
+                                                    <p>5pc</p>
+                                                </a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="hPage" id="sec9">
+                                        <div class="row3">
+                                            <ul>
+                                                <a href="#sec5">
+                                                    <p>1pc</p>
+                                                </a>
+                                                <a href="#sec6">
+                                                    <p>2pc</p>
+                                                </a>
+                                                <a href="#sec7">
+                                                    <p>3pc</p>
+                                                </a>
+                                                <a href="#sec8">
+                                                    <p>4pc</p>
+                                                </a>
+                                                <a href="#sec9">
+                                                    <p id="b5">5pc</p>
+                                                </a>
+                                            </ul>
+                                        </div>
+                                    </div>                              
+                                </div>
+                                <div class="fav">
+                                    <div class="box6">
+                                        <a href="">
+                                            <p class="txt">Add to cart</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="share">
+                                    <h4>Share now:</h4>
+                                    <div class="symbol">
+                                        <a href=""><i class="fa fa-facebook-official"></i></a>
+                                        <a href=""><i class="fa fa-whatsapp"></i></a>
+                                        <a href=""><i class="fa fa-twitter-square"></i></a>
+                                        <a href=""><i class="fa fa-linkedin-square"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="description">
+                    <div class="row">
+                        <div class="col-2">
+                            <div class="box7">
+                                <h3>Product Description</h3>
+                                <div class="descript">
+
+                                    <p>
+                                        Coconut is a very stable fruit. It is a mature fruit of the cocos nucifera palm. The fruit is nearly spherical to oval in shape and measure between 5-10 inches in width.
+                                        Its rough external husk is light green, and turns gray as the nut grown-up. The husk is about 1-2 inches in thickness and made of tough fibers.</p>
+                                    <p>Coconut is to stabilizing blood sugar, lowering cholesterol, healing, hydration and even replacing blood plasma in an emergency.
+                                    </p> <br>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="box7">
+                                <h3>Product Details</h3>
+                                <div class="detail">
+                                    <p>Product id: VEGTB006</p>
+                                    <p> Made by : <br>Fresho</p>
+                                    <p>Est. Order Processing Time: 12-24 hours <br>Estimated Delivery Time: <br>Metros:
+                                        1-4 days <br>Rest of India: 4-7 days</p>
+                                    <p>Country of Origin: India (and proud)</p>
+                                    <p>Manufactured By: Supermarket Grocery Supplies Pvt. Ltd <br> No. 7, Service Road,
+                                        Off 100 Feet Road <br>
+                                        Indiranagar Landmark: Above HDFC Bank Bangalore <br> Karnataka 560071
+
+                                        <a href="www.fresho.com"> www.Fresho.in</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Download App for Android & IOS mobile phones</p>
+                    <div class="app-logo">
+                        <a href=""><img
+                                src="https://www.vippng.com/png/full/108-1086736_google-play-android-app-store-computer-accessory-google.png"></a>
+                        <a href=""><img
+                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/135px-Download_on_the_App_Store_Badge.svg.png"></a>
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img
+                        src="https://cdn.discordapp.com/attachments/885510149324812288/892292572188405840/1632809521312.jpg">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li><a href=""><i class="fa fa-ticket" aria-hidden="true"></i> Coupons</a></li>
+                        <li><a href=""><i class="fa fa-th-large" aria-hidden="true"></i> Blog Post</a></li>
+                        <li><a href=""><i class="fa fa-retweet" aria-hidden="true"></i> Return Policy</a></li>
+                        <li><a href=""><i class="fa fa-handshake-o" aria-hidden="true"></i> Join Affiliate</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow us</h3>
+                    <ul>
+                        <li><a href=""><i class="fa fa-facebook-official"></i> Facebook</a></li>
+                        <li><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+                        <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+                        <li><a href=""><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2021-gapstoreonlineshopping@gmail.com</p>
+        </div>
+    </div>
+</body>
+
+</html>
